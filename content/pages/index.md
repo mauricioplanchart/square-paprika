@@ -59,7 +59,7 @@ sections:
         style: primary
     blog_feed_cols: three
     enable_cards: false
-    show_recent: true
+    show_recent: false
     recent_count: 3
     show_image: true
     show_date: true
