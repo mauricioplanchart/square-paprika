@@ -45,7 +45,9 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-          - label: lorem-ipsum
+          - label: >-
+              La industria del alcohol no ha jugado limpio. Sobretodo en
+              pandemia
             url: '#'
             style: link
             has_icon: false
