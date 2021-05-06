@@ -21,7 +21,9 @@ sections:
     subtitle: Features Section Example
     features:
       - title: Wake up to life a freedom
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: >-
+          Sabias que solo en México más de 5M sufren del abuso del alcohol de
+          una manera u otra y solo el 5% recibe ayuda.
         content: >
           Sabias que solo en México más de 5M sufren del abuso del alcohol de
           una manera u otra y solo el 5% recibe ayuda.
