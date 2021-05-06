@@ -57,7 +57,6 @@ sections:
             new_window: false
             no_follow: false
             type: action
-        image: images/classic/feature-2.png
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
