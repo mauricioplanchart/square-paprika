@@ -18,7 +18,6 @@ sections:
     background_color: secondary
   - type: features_section
     title: Wake up to life a freedom
-    subtitle: Features Section Example
     features:
       - subtitle: >-
           Sabias que solo en México más de 5M sufren del abuso del alcohol de
