@@ -4,9 +4,6 @@ sections:
   - type: hero_section
     title: Become your best version by changing your relationship with alcohol
     subtitle: Get your personalized plan
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
     actions:
       - label: Learn More
         url: /features
