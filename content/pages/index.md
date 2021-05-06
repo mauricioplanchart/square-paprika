@@ -20,7 +20,7 @@ sections:
     title: Features Section
     subtitle: Features Section Example
     features:
-      - title: The Big Title For the Feature
+      - title: Wake to life a freedom
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
