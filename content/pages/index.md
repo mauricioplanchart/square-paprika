@@ -20,8 +20,7 @@ sections:
     title: Features Section
     subtitle: Features Section Example
     features:
-      - title: Wake up to life a freedom
-        subtitle: >-
+      - subtitle: >-
           Sabias que solo en México más de 5M sufren del abuso del alcohol de
           una manera u otra y solo el 5% recibe ayuda.
         content: >
