@@ -53,7 +53,6 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: blog_feed_section
-    subtitle: Blog Feed Section Example
     actions:
       - label: View All
         url: /blog
