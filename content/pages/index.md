@@ -38,13 +38,7 @@ sections:
         media_width: fifty
       - content: |2
                    La industria del alcohol no ha jugado limpio. Sobretodo en pandemia
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
