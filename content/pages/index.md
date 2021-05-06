@@ -43,7 +43,7 @@ sections:
         media_position: left
         media_width: fifty
       - actions: []
-        image: images/classic/feature-3.png
+        image: images/Screen Shot 2021-05-06 at 6.35.54 PM.png
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fifty
