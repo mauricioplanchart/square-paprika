@@ -42,13 +42,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-      - actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+      - actions: []
         image: images/classic/feature-3.png
         image_alt: Feature 3 placeholder image
         media_position: right
