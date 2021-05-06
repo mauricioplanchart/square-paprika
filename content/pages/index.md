@@ -52,25 +52,6 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: primary
-  - type: blog_feed_section
-    actions:
-      - label: View All
-        url: /blog
-        style: primary
-    blog_feed_cols: two
-    enable_cards: false
-    show_recent: false
-    recent_count: 0
-    show_image: true
-    show_date: true
-    show_categories: true
-    show_author: true
-    show_excerpt: false
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
     content: >-
