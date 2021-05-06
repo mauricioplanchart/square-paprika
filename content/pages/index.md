@@ -17,7 +17,7 @@ sections:
     padding_bottom: large
     background_color: secondary
   - type: features_section
-    title: Features Section
+    title: Wake up to life a freedom
     subtitle: Features Section Example
     features:
       - subtitle: >-
