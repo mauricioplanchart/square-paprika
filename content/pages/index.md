@@ -17,15 +17,14 @@ sections:
     padding_bottom: large
     background_color: secondary
   - type: features_section
-    title: Features Section
-    subtitle: Features Section Example
+    title: Wake Up to life and freedom
     features:
-      - title: The Big Title For the Feature
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+      - subtitle: >-
+          Sabias que solo en México más de 5M sufren del abuso del alcohol de
+          una manera u otra y solo el 5% recibe ayuda.
+        content: >
+          Wake es la primera plataforma en Latinoamérica para tratar el abuso
+          del alcohol 100% online 24/7 con un sistema holístico y económico.
         actions:
           - label: Learn More
             url: /style-guide
@@ -33,26 +32,35 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-1.png
+        image: images/video2.png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-      - title: The Big Title For the Feature
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/classic/feature-2.png
+      - content: |2
+                   La industria del alcohol no ha jugado limpio. Sobretodo en pandemia
+        actions: []
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
+      - title: 'No es tu culpa, no estas solo'
+        subtitle: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
+        image_alt: lorem-ipsum
+        media_position: top
+        media_width: fifty
+        align: left
+        type: feature
       - title: The Big Title For the Feature
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
