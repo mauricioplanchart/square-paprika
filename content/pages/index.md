@@ -54,7 +54,6 @@ sections:
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
-        image: images/Screen Shot 2021-05-06 at 6.39.14 PM.png
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
