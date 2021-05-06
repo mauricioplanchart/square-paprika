@@ -71,7 +71,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-    background_image: images/Screen Shot 2021-05-06 at 6.39.14 PM.png
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
     content: >-
