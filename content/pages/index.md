@@ -133,6 +133,7 @@ sections:
     enable_cards: true
     align: center
     background_color: none
+    background_image: images/Screen Shot 2021-05-06 at 6.39.14 PM.png
   - type: grid_section
     title: Reviews Section
     subtitle: Grid Section Example
