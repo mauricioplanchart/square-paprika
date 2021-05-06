@@ -8,14 +8,14 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/classic/hero.png
+    image: images/Bitmap.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: primary
+    background_color: secondary
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
