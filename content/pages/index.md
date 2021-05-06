@@ -17,7 +17,7 @@ sections:
     padding_bottom: large
     background_color: secondary
   - type: features_section
-    title: Wake up to life and freedom
+    title: Wake Up to life and freedom
     features:
       - subtitle: >-
           Sabias que solo en México más de 5M sufren del abuso del alcohol de
