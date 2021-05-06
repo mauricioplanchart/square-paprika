@@ -45,7 +45,7 @@ sections:
       - actions: []
         image: images/Screen Shot 2021-05-06 at 6.35.54 PM.png
         image_alt: Feature 3 placeholder image
-        media_position: top
+        media_position: bottom
         media_width: sixty
         align: center
     feature_padding_vert: large
