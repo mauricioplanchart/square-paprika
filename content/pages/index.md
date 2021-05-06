@@ -64,6 +64,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/Screen Shot 2021-05-06 at 6.39.14 PM.png
     feature_padding_vert: large
     align: center
     background_color: secondary
