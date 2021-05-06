@@ -37,7 +37,7 @@ sections:
         media_position: right
         media_width: fifty
       - content: >
-          ###### La industria del alcohol no ha jugado limpio. Sobretodo en
+          #### La industria del alcohol no ha jugado limpio. Sobretodo en
           pandemia
         actions:
           - label: Learn More
