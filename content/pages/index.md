@@ -48,7 +48,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-      - title: 'No es tu culpa, no estas solo '
+      - title: 'No es tu culpa, no estas solo'
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
