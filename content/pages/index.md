@@ -22,10 +22,9 @@ sections:
     features:
       - title: Wake up to life a freedom
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Sabias que solo en México más de 5M sufren del abuso del alcohol de
+          una manera u otra y solo el 5% recibe ayuda 
         actions:
           - label: Learn More
             url: /style-guide
