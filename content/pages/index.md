@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Become your best version by changing your relationship with alcohol
-    subtitle: Optional hero section subtitle
+    subtitle: Get your personalized plan
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
