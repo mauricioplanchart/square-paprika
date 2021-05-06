@@ -36,8 +36,8 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-      - content: |2
-                   La industria del alcohol no ha jugado limpio. Sobretodo en pandemia
+      - content: |
+          La industria del alcohol no ha jugado limpio. Sobretodo en pandemia
         actions: []
         image_alt: Feature 2 placeholder image
         media_position: left
