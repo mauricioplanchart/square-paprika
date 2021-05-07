@@ -92,7 +92,7 @@ sections:
     form_action: lorem-ipsum
     form_fields:
       - input_type: text
-        name: your email adress
+        name: your email address
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
