@@ -21,18 +21,7 @@ sections:
         actions_width: full-width
       - title: "Apoyo clínico +\_ \_ \_ \_ \_ Online Community"
         title_align: left
-        content: |-
-          ---
-
-          ### $19
-
-          per month, billed yearly
-
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
+        content: "Cita con médico especialista\\<!---->\\<!---->\\<!---->\n\n*   Manejo de medicamentos\n\n<!---->\n\n*   Acceso a Wake University\n\n<!---->\n\n*   Introducción a mindfulness\n\nPago mensual: \\*\\*$2,000 mxn\_\\*\\*\n"
         content_align: left
         actions:
           - label: Start with Premium
