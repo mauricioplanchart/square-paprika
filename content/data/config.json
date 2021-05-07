@@ -88,13 +88,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [],
         "has_tertiary_nav": true,
-        "tertiary_nav_links": [
-            {
-                "label": "Privacy Policy",
-                "url": "/privacy-policy",
-                "style": "link"
-            }
-        ],
+        "tertiary_nav_links": [],
         "has_social": true,
         "social_links": [
             {
