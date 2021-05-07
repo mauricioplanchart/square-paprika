@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Nuestros planes
-    subtitle: 'Take a lead. Start changing your life for good, choose the best suit'
+    subtitle: 'Take a lead. Start changing your life for good, choose the best suits you'
     align: left
     padding_top: large
     padding_bottom: small
