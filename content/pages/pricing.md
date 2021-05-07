@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Nuestros planes
-    subtitle: Optional hero section subtitle
+    subtitle: Take a lead. Start
     align: left
     padding_top: large
     padding_bottom: small
