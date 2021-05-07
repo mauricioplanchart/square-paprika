@@ -69,8 +69,7 @@ sections:
     type: features_section
     background_image: images/Screen Shot 2021-05-06 at 6.39.14 PM.png
     subtitle: jjjk\
-  - subtitle: lorem-ipsum
-    title_align: left
+  - title_align: left
     content: |+
       ## Join Wake, get your personalized plan  
 
