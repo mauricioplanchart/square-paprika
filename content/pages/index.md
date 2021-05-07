@@ -69,44 +69,6 @@ sections:
     type: features_section
     background_image: images/Screen Shot 2021-05-06 at 6.39.14 PM.png
     subtitle: jjjk\
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
-    title_align: left
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    content_align: right
-    form_position: bottom
-    form_width: fifty
-    form_layout: inline
-    enable_card: true
-    form_id: lorem-ipsum
-    form_fields:
-      - input_type: text
-        name: your email address
-        default_value: your email address
-        options: []
-        is_required: false
-        type: form_field
-        label: Sign Up
-    align_vert: top
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: form_section
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
