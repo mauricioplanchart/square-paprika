@@ -24,7 +24,7 @@ sections:
         content: "*   Cita con médico especialista\n\n<!---->\n\n*   Manejo de medicamentos\n\n<!---->\n\n*   Acceso a Wake University\n\n<!---->\n\n*   Introducción a mindfulness\n\nPago mensual: \\*\\*$2,000 mxn\_\\*\\*\n"
         content_align: left
         actions:
-          - label: Start with Premium
+          - label: Elegir este plan
             url: /features
             style: primary
         actions_align: left
