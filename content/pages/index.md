@@ -92,7 +92,7 @@ sections:
     form_fields:
       - input_type: text
         label: lorem-ipsum
-        default_value: lorem-ipsum
+        default_value: lorem-ipsu
         options: []
         is_required: false
         type: form_field
