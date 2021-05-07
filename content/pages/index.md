@@ -93,7 +93,6 @@ sections:
     form_fields:
       - input_type: text
         name: your email address
-        label: your email ad
         default_value: your email address
         options: []
         is_required: false
