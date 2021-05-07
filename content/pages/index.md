@@ -89,7 +89,6 @@ sections:
     form_layout: inline
     enable_card: true
     form_id: lorem-ipsum
-    form_action: lorem-ips
     form_fields:
       - input_type: text
         name: your email address
