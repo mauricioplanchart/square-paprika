@@ -72,17 +72,9 @@ sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     title_align: left
-    content: >-
-      ## Lorem ipsum
+    content: |+
+      ## Join Wake, get your personalized plan  
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     content_align: center
     form_position: bottom
     form_width: fourty
