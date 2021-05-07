@@ -29,7 +29,7 @@
             },
             {
                 "label": "Pricing",
-                "url": "#/pricing/",
+                "url": "#/pricing",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
