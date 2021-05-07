@@ -44,6 +44,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: top
         media_width: fifty
+        align: center
     feature_padding_vert: large
     align: center
     background_color: secondary
