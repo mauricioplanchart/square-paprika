@@ -84,7 +84,7 @@ sections:
 
       - dolor sit amet
     content_align: right
-    form_position: right
+    form_position: left
     form_width: fifty
     form_layout: stacked
     enable_card: true
