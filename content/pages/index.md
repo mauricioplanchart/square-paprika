@@ -42,7 +42,7 @@ sections:
           # No es tu culpa, no estas solo
         actions: []
         image_alt: Feature 2 placeholder image
-        media_position: left
+        media_position: top
         media_width: fifty
     feature_padding_vert: large
     align: center
