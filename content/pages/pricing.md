@@ -9,7 +9,7 @@ sections:
     padding_bottom: small
   - type: grid_section
     grid_items:
-      - title: Personal
+      - title: Apoyo clínico + Online c
         subtitle: Optional subtitle
         title_align: left
         content: |-
