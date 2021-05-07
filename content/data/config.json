@@ -28,7 +28,7 @@
                 "style": "link"
             },
             {
-                "label": "/pricing",
+                "label": "/pxricing",
                 "url": "#/pricing/",
                 "style": "link",
                 "has_icon": false,
