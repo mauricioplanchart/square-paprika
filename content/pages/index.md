@@ -97,17 +97,8 @@ sections:
     type: form_section
     submit_label: Sign Up
   - title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      *
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
