@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Nuestros planes
     subtitle: Optional hero section subtitle
-    align: center
+    align: left
     padding_top: large
     padding_bottom: small
   - type: grid_section
