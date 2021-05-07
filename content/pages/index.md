@@ -85,7 +85,7 @@ sections:
       - dolor sit amet
     content_align: center
     form_position: left
-    form_width: fifty
+    form_width: fourty
     form_layout: inline
     enable_card: true
     form_id: lorem-ipsum
