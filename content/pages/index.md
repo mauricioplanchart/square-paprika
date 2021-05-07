@@ -96,8 +96,7 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
     submit_label: Sign Up
-  - title: lorem-ipsum
-    content: |
+  - content: |
       *
     actions: []
     image_alt: lorem-ipsum
