@@ -88,7 +88,6 @@ sections:
     form_width: fourty
     form_layout: inline
     enable_card: true
-    form_id: lorem-ips
     form_action: lorem-ipsum
     form_fields:
       - input_type: text
