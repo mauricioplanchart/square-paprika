@@ -96,6 +96,7 @@ sections:
         is_required: false
         type: form_field
         name: Your email address
+        default_value: Your email address
     align_vert: middle
     padding_top: medium
     padding_bottom: medium
