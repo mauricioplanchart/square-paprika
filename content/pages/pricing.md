@@ -32,7 +32,7 @@ sections:
       - title: "Apoyo clínico +\_ \_ \_ \_ \_ Online Community"
         subtitle: Optional subtitle
         title_align: left
-        content: "***\n\n###\n\n*   Manejo de medicamentos\n*   Acceso a Wake University\n*   Introducción a mindfulness\n\nPago mensual: $2,000 mxn\_\n\n\n\n\n\n"
+        content: "*   Manejo de medicamentos\n\n*   Acceso a Wake University\n\n*   Introducción a mindfulness\n\nPago mensual: $2,000 mxn\_\n"
         content_align: left
         actions:
           - label: Start with Business
