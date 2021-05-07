@@ -68,7 +68,7 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
     background_image: images/Screen Shot 2021-05-06 at 6.39.14 PM.png
-    subtitle: jjj
+    subtitle: jjjk\
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
