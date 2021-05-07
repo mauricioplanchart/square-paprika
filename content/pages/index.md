@@ -97,6 +97,7 @@ sections:
         options: []
         is_required: false
         type: form_field
+        label: Sign Up
     align_vert: top
     padding_top: medium
     padding_bottom: medium
