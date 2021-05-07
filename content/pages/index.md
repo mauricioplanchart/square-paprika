@@ -97,7 +97,6 @@ sections:
     type: form_section
     submit_label: Sign Up
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
