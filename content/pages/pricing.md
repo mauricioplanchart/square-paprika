@@ -9,7 +9,7 @@ sections:
     padding_bottom: small
   - type: grid_section
     grid_items:
-      - title: Apoyo clínico + Online c
+      - title: "Apoyo clínico +\_ \_ \_ \_ \_ Online Community"
         subtitle: Optional subtitle
         title_align: left
         content: |-
