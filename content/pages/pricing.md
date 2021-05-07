@@ -32,18 +32,7 @@ sections:
       - title: Business
         subtitle: Optional subtitle
         title_align: left
-        content: |-
-          ---
-
-          ### $39
-
-          per month, billed yearly
-
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-          * Feugiat porta tortor
+        content: "***\n\n###\n\n*   Manejo de medicamentos\n*   Acceso a Wake University\n*   Introducción a mindfulness\n\nPago mensual: $2,000 mxn\_\n\n\n\n\n\n"
         content_align: left
         actions:
           - label: Start with Business
