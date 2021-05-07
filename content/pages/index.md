@@ -38,6 +38,8 @@ sections:
         media_width: fifty
       - content: |
           La industria del alcohol no ha jugado limpio. Sobretodo en pandemia.
+
+          # No es tu culpa, no estas solo
         actions: []
         image_alt: Feature 2 placeholder image
         media_position: left
