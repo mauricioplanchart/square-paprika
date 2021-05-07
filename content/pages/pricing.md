@@ -19,7 +19,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Premium
+      - title: "Apoyo clínico +\_ \_ \_ \_ \_ Online Community"
         subtitle: Optional subtitle
         title_align: left
         content: |-
