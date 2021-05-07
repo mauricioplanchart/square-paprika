@@ -73,7 +73,7 @@ sections:
     content: |+
       ## Join Wake, get your personalized plan  
 
-    content_align: left
+    content_align: right
     form_position: bottom
     form_width: fourty
     form_layout: inline
