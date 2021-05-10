@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Become your best version by changing your relationship with alcohol
-    subtitle: Get your personalized plan
+    subtitle: Mejorando
     actions:
       - label: Learn More
         url: /features
