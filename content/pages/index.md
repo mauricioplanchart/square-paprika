@@ -5,7 +5,7 @@ sections:
     title: Become your best version by changing your relationship with alcohol
     subtitle: >-
       Mejorando tu relación con el alcohol con una metodología clínica y
-      subclínica
+      subclínica basada en data
     actions:
       - label: Learn More
         url: /features
