@@ -21,7 +21,7 @@ sections:
   - type: features_section
     features:
       - subtitle: >-
-          Sabias que solo en México más de 5M sufren del abuso del alcohol de
+          Sabías que solo en México más de 5M sufren del abuso del alcohol de
           una manera u otra y solo el 5% recibe ayuda.
         content: >
           Wake es la primera plataforma en Latinoamérica para tratar el abuso
