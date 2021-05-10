@@ -50,7 +50,7 @@ sections:
     feature_padding_vert: large
     align: left
     background_color: secondary
-    has_border: true
+    has_border: false
   - type: features_section
     features:
       - image_alt: Brandon Guidelines
