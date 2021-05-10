@@ -67,9 +67,8 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - title_align: left
-    content: |+
-      ## Join Wake, get your personalized plan  
-
+    content: |
+      ## Únete Wake y obtén un plan personalizado
     content_align: center
     form_position: bottom
     form_width: fourty
