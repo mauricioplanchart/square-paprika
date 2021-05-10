@@ -35,7 +35,7 @@ sections:
             icon_position: right
         image: images/video2.png
         image_alt: Feature 1 placeholder image
-        media_position: right
+        media_position: bottom
         media_width: fifty
         title: Wake Up to life and freedom
       - content: |
