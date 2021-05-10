@@ -51,7 +51,7 @@ sections:
     feature_padding_vert: large
     align: left
     background_color: secondary
-    has_border: false
+    has_border: true
     padding_bottom: none
     padding_top: large
   - type: features_section
