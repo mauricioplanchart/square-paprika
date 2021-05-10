@@ -38,7 +38,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-        title: xcvzx
+        title: Wake Up to life and freedom
       - content: |
           La industria del alcohol no ha jugado limpio. Sobretodo en pandemia
 
