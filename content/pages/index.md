@@ -26,13 +26,7 @@ sections:
         content: >
           Wake es la primera plataforma en Latinoamérica para tratar el abuso
           del alcohol 100% online 24/7 con un sistema holístico y económico.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/video2.png
         image_alt: Feature 1 placeholder image
         media_position: bottom
