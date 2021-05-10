@@ -15,7 +15,8 @@
             {
                 "label": "Metodología",
                 "url": "/pricing",
-                "style": "link"
+                "style": "link",
+                "icon_position": "right"
             },
             {
                 "label": "Comunidad",
