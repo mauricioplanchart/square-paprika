@@ -33,7 +33,7 @@ sections:
         media_width: fifty
         title: Wake Up to life and freedom
       - content: |
-          La industria del alcohol no ha jugado limpio. Sobretodo en pandemia
+
 
           # No es tu culpa, no estas solo
         actions: []
