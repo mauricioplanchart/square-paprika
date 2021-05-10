@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Become your best version by changing your relationship with alcohol
+    title: Descubre tu mejor versión
     subtitle: >-
       Mejorando tu relación con el alcohol con una metodología clínica y
       subclínica basada en data. 24/7 y anónima
