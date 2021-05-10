@@ -49,7 +49,7 @@ sections:
         media_width: fifty
         align: center
     feature_padding_vert: large
-    align: right
+    align: left
     background_color: secondary
     has_border: false
     padding_bottom: none
