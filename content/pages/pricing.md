@@ -6,6 +6,9 @@ sections:
     align: left
     padding_top: large
     padding_bottom: small
+    subtitle: >-
+      Toma ventaja. Empieza a cambiar tu vida para siempre, elige el que mejor
+      se adapte a ti
   - type: grid_section
     grid_items:
       - title: "Apoyo clínico +\_ \_ \_ \_ \_ Online Community"
