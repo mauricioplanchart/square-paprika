@@ -21,8 +21,8 @@ sections:
   - type: features_section
     features:
       - subtitle: >-
-          Sabias que solo en México más de 5M sufren del abuso del alcohol de
-          una manera u otra y solo el 5% recibe ayuda.
+          ¿Sabías que solo en México más de 5M sufren del abuso del alcohol de
+          una manera u otra y solo el 5% recibe ayuda?
         content: >
           Wake es la primera plataforma en Latinoamérica para tratar el abuso
           del alcohol 100% online 24/7 con un sistema holístico y económico.
@@ -33,7 +33,7 @@ sections:
         media_width: fifty
         title: Wake Up to life and freedom
       - content: |
-          La industria del alcohol no ha jugado limpio. Sobretodo en pandemia
+
 
           # No es tu culpa, no estas solo
         actions: []
@@ -67,9 +67,8 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - title_align: left
-    content: |+
-      ## Join Wake, get your personalized plan  
-
+    content: |
+      ## Únete Wake y obtén un plan personalizado
     content_align: center
     form_position: bottom
     form_width: fourty
