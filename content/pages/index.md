@@ -7,7 +7,7 @@ sections:
       Mejorando tu relación con el alcohol con una metodología clínica y
       subclínica basada en data. 24/7 y anónima
     actions:
-      - label: Learn More
+      - label: Conoce más
         url: /features
         style: secondary
     image: images/Bitmap.png
