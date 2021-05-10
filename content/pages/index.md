@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Become your best version by changing your relationship with alcohol
-    subtitle: Mejorando tu relación con el alcohol con una metodología
+    subtitle: Mejorando tu relación con el alcohol con una metodología clínica
     actions:
       - label: Learn More
         url: /features
