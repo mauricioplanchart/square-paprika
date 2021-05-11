@@ -92,7 +92,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-    submit_label: subscríbete
+    submit_label: Subscríbete
   - actions: []
     image_alt: lorem-ipsum
     media_position: top
