@@ -9,6 +9,7 @@ sections:
     background_color: none
     image: images/modern-rosemary.jpg
     background_image_repeat: repeat
+    background_image_position: left center
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
