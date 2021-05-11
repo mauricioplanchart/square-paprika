@@ -80,7 +80,7 @@ sections:
         is_required: false
         type: form_field
         name: 'Su email '
-        default_value: 'Su email '
+        default_value: 'Email '
     align_vert: middle
     padding_top: none
     padding_bottom: none
