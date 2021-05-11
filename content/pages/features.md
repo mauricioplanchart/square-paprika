@@ -2,7 +2,6 @@
 title: Features
 sections:
   - type: hero_section
-    title: Explore Feat
     subtitle: Features Page Demo
     background_color: primary
   - type: features_section
