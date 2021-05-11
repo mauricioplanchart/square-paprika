@@ -55,7 +55,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - features: []
-    feature_padding_vert: medium
+    feature_padding_vert: large
     align: center
     padding_top: medium
     padding_bottom: medium
