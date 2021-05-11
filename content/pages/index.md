@@ -30,7 +30,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: bottom
         media_width: fifty
-        title: Wake Up to life and freedom
+        title: Wake Up to Life and freedom
         align: center
       - content: |
 
