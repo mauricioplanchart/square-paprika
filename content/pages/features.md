@@ -9,6 +9,10 @@ sections:
         image_alt: Top view of business meeting
         media_position: left
         media_width: fifty
+        content: >
+          Tenemos un equipo de psicólogos especializados en adicciones y
+          co-occurring mental health issues 24/7 listo para generar un plan de
+          progreso junto a ti.
     background_color: none
 seo:
   title: Features
