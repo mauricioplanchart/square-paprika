@@ -178,7 +178,7 @@
                 "type": "action"
             },
             {
-                "url": "#",
+                "url": "/princing",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
