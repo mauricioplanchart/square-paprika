@@ -111,7 +111,7 @@
             {
                 "label": "Empieza hoy",
                 "url": "/pricing",
-                "style": "primary"
+                "style": "secondary"
             },
             {
                 "label": "lorem-ipsum",
