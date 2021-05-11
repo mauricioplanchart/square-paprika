@@ -5,7 +5,7 @@ sections:
     title: Descubre tu mejor versión
     subtitle: >-
       Mejora tu relación con el alcohol con una metodología clínica y subclínica
-      basada en data. 24/7 y anónima.
+      basada en data. 24/7 y anónima
     actions:
       - label: Conoce más
         style: secondary
