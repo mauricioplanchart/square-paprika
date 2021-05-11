@@ -41,7 +41,7 @@ sections:
         media_position: top
         media_width: fifty
         align: center
-    feature_padding_vert: large
+    feature_padding_vert: medium
     align: left
     background_color: secondary
     has_border: true
