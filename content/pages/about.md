@@ -7,7 +7,7 @@ sections:
           **Wake** es una plataforma digital creada para transformar tu relación
           con el alcohol desde la raíz utilizando la última tecnología para
           proveer una solución integral y personalizada.
-        image: images/about-5.jpg
+        image: images/cards.png
         image_alt: People in conversation in the office lounge area
         media_position: bottom
         media_width: fifty
