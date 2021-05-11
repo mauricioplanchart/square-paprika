@@ -16,7 +16,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: none
+    background_color: primary
   - type: features_section
     features:
       - subtitle: >-
