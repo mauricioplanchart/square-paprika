@@ -85,7 +85,7 @@ sections:
         default_value: 'Su email '
     align_vert: middle
     padding_top: none
-    padding_bottom: small
+    padding_bottom: none
     has_border: false
     background_color: none
     background_image_opacity: 0
