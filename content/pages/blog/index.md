@@ -21,7 +21,7 @@ sections:
     padding_bottom: medium
     has_border: true
     background_color: secondary
-  - title: lorem-ipsum
+  - title: Cursos
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
