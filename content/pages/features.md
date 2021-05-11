@@ -36,6 +36,7 @@ sections:
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
+    background_color: primary
   - type: grid_section
     title: Cards Section
     subtitle: Grid Section Example
