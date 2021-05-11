@@ -78,8 +78,7 @@ sections:
     form_fields:
       - input_type: email
         label: lorem-ipsum
-        options:
-          - lorem-ipsum
+        options: []
         is_required: false
         type: form_field
         name: 'Su email '
