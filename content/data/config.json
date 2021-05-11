@@ -76,7 +76,7 @@
             },
             {
                 "label": "Precios",
-                "url": "#",
+                "url": "/Pricing",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
