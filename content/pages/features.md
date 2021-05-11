@@ -5,7 +5,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - image: images/card4.png
+      - image: images/Screen Shot 2021-05-11 at 4.15.52 PM.png
         image_alt: Top view of business meeting
         media_position: left
         media_width: fifty
