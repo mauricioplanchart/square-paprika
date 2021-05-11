@@ -35,7 +35,6 @@ sections:
         content_align: left
         actions:
           - label: Elegir este plan
-            url: /features
             style: primary
         actions_align: left
         actions_width: full-width
