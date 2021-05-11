@@ -41,7 +41,7 @@ sections:
         align: center
     feature_padding_vert: medium
     align: left
-    background_color: secondary
+    background_color: none
     has_border: true
     padding_bottom: none
     padding_top: medium
