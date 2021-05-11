@@ -16,7 +16,7 @@
                 "label": "Wake",
                 "url": "/pricing",
                 "style": "link",
-                "icon_position": "left"
+                "icon_position": "right"
             },
             {
                 "url": "#",
