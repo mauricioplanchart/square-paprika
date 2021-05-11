@@ -38,7 +38,8 @@
             },
             {
                 "label": "Wake",
-                "style": "link"
+                "style": "link",
+                "url": "/style-guide"
             },
             {
                 "label": "¿Cómo funciona?",
