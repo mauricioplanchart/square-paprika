@@ -102,7 +102,6 @@
             },
             {
                 "label": "Empieza hoy",
-                "url": "#",
                 "style": "primary",
                 "has_icon": false,
                 "icon": "arrow-left",
