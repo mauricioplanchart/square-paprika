@@ -34,17 +34,10 @@ sections:
     type: grid_section
     background_image: images/remarkable-anemone.jpg
   - title: Cursos
-    content: >-
-      ## Lorem ipsum
+    content: |
+      ## ![](/images/pleasant-squid.jpg)
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      *
     actions: []
     actions_position: bottom
     actions_width: fourty
