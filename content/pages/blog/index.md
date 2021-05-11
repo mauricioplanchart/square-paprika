@@ -1,8 +1,7 @@
 ---
 title: Blog
 sections:
-  - title: Cursos
-    content: |+
+  - content: |+
       ## ![](/images/pleasant-squid.jpg)
 
     actions: []
