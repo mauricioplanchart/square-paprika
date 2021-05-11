@@ -141,7 +141,8 @@
             },
             {
                 "label": "Wake",
-                "style": "link"
+                "style": "link",
+                "url": "/about"
             },
             {
                 "label": "¿Cómo funciona?",
