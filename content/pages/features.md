@@ -17,6 +17,10 @@ sections:
           Tenemos un equipo de psicólogos especializados en adicciones y
           co-occurring mental health issues 24/7 listo para generar un plan de
           progreso junto a ti.
+        title: >-
+          Tenemos un equipo de psicólogos especializados en adicciones y
+          co-occurring mental health issues 24/7 listo para generar un plan de
+          progreso junto a ti.
     background_color: none
 seo:
   title: Features
