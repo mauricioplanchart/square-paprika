@@ -1,16 +1,6 @@
 ---
 title: Blog
 sections:
-  - type: hero_section
-    title: Cursos
-    align: left
-    padding_top: medium
-    padding_bottom: none
-    background_color: none
-    image: images/modern-rosemary.jpg
-    background_image_repeat: repeat
-    background_image_position: left top
-    media_position: bottom
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
