@@ -72,7 +72,7 @@ sections:
     content_align: center
     form_position: bottom
     form_width: fifty
-    form_layout: inline
+    form_layout: stacked
     enable_card: true
     form_action: lorem-ipsum
     form_fields:
