@@ -82,7 +82,7 @@ sections:
         is_required: false
         type: form_field
         name: 'Su email '
-        default_value: Your email address
+        default_value: 'Su email '
     align_vert: middle
     padding_top: none
     padding_bottom: medium
