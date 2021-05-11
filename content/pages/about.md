@@ -7,8 +7,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: Section Title One
-        content: >
+      - content: >
           Wake es una plataforma digital creada para transformar tu relación con
           el alcohol desde la raíz utilizando la última tecnología para proveer
           una solución integral y personalizada.
