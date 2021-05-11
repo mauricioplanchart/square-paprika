@@ -32,7 +32,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-    background_image: images/remarkable-anemone.jpg
   - title: Cursos
     content: |
       ## ![](/images/pleasant-squid.jpg)
