@@ -7,8 +7,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Section Title One
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
+      - subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
         image: images/about-3.jpg
         image_alt: Top view of business meeting
         media_position: left
