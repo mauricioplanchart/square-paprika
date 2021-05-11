@@ -7,7 +7,10 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - subtitle: 'Odio et tortor laoreet, sed interdum augue ornare.'
+      - subtitle: >-
+          Tenemos un equipo de psicólogos especializados en adicciones y co
+          occurring mental health issues 24/7 listo para generar un plan de
+          progreso junto a ti.
         image: images/about-3.jpg
         image_alt: Top view of business meeting
         media_position: left
