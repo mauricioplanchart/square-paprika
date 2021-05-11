@@ -8,7 +8,7 @@ sections:
     padding_bottom: none
     background_color: none
     image: images/modern-rosemary.jpg
-    background_image_repeat: no-repeat
+    background_image_repeat: repeat
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
