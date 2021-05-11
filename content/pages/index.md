@@ -73,7 +73,7 @@ sections:
     form_position: bottom
     form_width: fifty
     form_layout: inline
-    enable_card: false
+    enable_card: true
     form_action: lorem-ipsum
     form_fields:
       - input_type: text
