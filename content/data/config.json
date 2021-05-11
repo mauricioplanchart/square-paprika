@@ -13,7 +13,7 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "Metodología",
+                "label": "Wake",
                 "url": "/pricing",
                 "style": "link",
                 "icon_position": "left"
