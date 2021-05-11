@@ -8,7 +8,6 @@ sections:
   - type: features_section
     features:
       - title: Section Title One
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
         content: >
           Wake es una plataforma digital creada para transformar tu relación con
           el alcohol desde la raíz utilizando la última tecnología para proveer
