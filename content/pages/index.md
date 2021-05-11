@@ -66,7 +66,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-  - title_align: left
+  - title_align: center
     content: |
       ## Únete Wake y obtén un plan personalizado
     content_align: center
