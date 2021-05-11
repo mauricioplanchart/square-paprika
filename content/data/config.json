@@ -109,7 +109,6 @@
         "secondary_nav_links": [
             {
                 "label": "Login",
-                "url": "/pricing",
                 "style": "secondary"
             },
             {
