@@ -8,7 +8,6 @@ sections:
       subclínica basada en data. 24/7 y anónima.
     actions:
       - label: Conoce más
-        url: /features
         style: secondary
     image: images/Bitmap.png
     image_alt: Hero section placeholder image
