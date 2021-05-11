@@ -5,7 +5,7 @@ sections:
     title: Nuestros planes
     align: left
     padding_top: large
-    padding_bottom: small
+    padding_bottom: none
     subtitle: >-
       Toma ventaja. Empieza a cambiar tu vida para siempre, elige el que mejor
       se adapte a ti.
