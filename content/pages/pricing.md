@@ -30,7 +30,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Apoyo clínico + Online Community
-        title_align: left
+        title_align: center
         content: "*   Cita con médico especialista\n\n*   Manejo de medicamentos\n\n*   Acceso a Wake University\n\n*   Introducción a mindfulness\n\n    Pago mensual: $2,000 mxn\_\n"
         content_align: left
         actions:
