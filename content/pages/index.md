@@ -46,7 +46,7 @@ sections:
     background_color: secondary
     has_border: true
     padding_bottom: none
-    padding_top: large
+    padding_top: medium
   - type: features_section
     features:
       - image_alt: Brandon Guidelines
