@@ -14,19 +14,6 @@ sections:
         media_position: left
         media_width: fifty
     background_color: none
-  - type: cta_section
-    title: This is a Call to Action
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
-    actions:
-      - label: Compare Plans
-        url: /pricing
-        style: primary
-    actions_position: right
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
 seo:
   title: Features
   description: This is the features page
