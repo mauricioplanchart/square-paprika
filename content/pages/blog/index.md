@@ -2,7 +2,6 @@
 title: Blog
 sections:
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
     content: |
       ## ![](/images/card7.jpg)
 
