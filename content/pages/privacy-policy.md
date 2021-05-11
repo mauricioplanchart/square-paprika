@@ -20,4 +20,4 @@ seo:
       value: This is the privacy policy page
 layout: page
 ---
-Ser parte de la comunidad de expertos listos para trabajar contigo. 
+Unete a nuestra comunidad y accederás a diversos cursos, expertos y grupos de apoyo
