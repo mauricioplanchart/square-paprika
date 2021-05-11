@@ -1,9 +1,8 @@
 ---
 title: Blog
 sections:
-  - content: |+
-      ## ![](/images/pleasant-squid.jpg)
-
+  - content: |2
+                                                                                        ![](/images/pleasant-squid.jpg)
     actions: []
     actions_position: bottom
     actions_width: fourty
