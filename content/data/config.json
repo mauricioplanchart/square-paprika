@@ -10,7 +10,7 @@
         "title": "Wake",
         "logo": "images/Logo.png",
         "logo_alt": "Wake Logo",
-        "has_primary_nav": false,
+        "has_primary_nav": true,
         "primary_nav_links": [
             {
                 "url": "#",
