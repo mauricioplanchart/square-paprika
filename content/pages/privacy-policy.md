@@ -20,7 +20,6 @@ seo:
       value: This is the privacy policy page
 layout: page
 ---
-Unete a nuestra comunidad y accederás a diversos cursos, expertos y grupos de apoyo
+Unete a nuestra comunidad y accederás a diversos cursos, expertos y grupos de apoyo.
 
 ![](/images/classic/feature-1.png)
-
