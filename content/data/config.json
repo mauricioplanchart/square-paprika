@@ -53,17 +53,6 @@
                 "type": "action"
             },
             {
-                "label": "¿Cómo funciona?",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action",
-                "url": "/features"
-            },
-            {
                 "label": "Membresías",
                 "url": "#",
                 "style": "link",
