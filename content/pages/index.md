@@ -24,7 +24,7 @@ sections:
           una manera u otra y solo el 5% recibe ayuda?
         content: >
           Wake es la primera plataforma en Latinoamérica para tratar el abuso
-          del alcohol 100% online 24/7 con un sistema holístico y económico.
+          del alcohol 100% online 24/7 con un sistema holístico y económico
         actions: []
         image: images/video2.png
         image_alt: Feature 1 placeholder image
