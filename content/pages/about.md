@@ -9,10 +9,20 @@ sections:
     features:
       - title: Section Title One
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Wake es una plataforma digital creada para transformar tu relación con
+          el alcohol desde la raíz utilizando la última tecnología para proveer
+          una solución integral y personalizada.
+
+
+
+
+
+
+
+
+
+          .
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: bottom
