@@ -45,7 +45,7 @@ sections:
     align: left
     background_color: secondary
     has_border: true
-    padding_bottom: small
+    padding_bottom: none
     padding_top: large
   - type: features_section
     features:
