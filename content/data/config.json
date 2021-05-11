@@ -109,7 +109,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Empieza hoy",
+                "label": "Login",
                 "url": "/pricing",
                 "style": "secondary"
             },
