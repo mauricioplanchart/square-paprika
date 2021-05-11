@@ -1,10 +1,6 @@
 ---
 title: About
 sections:
-  - type: hero_section
-    title: Wake
-    align: center
-    background_color: secondary
   - type: features_section
     features:
       - content: >
