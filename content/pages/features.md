@@ -5,11 +5,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - subtitle: >-
-          Tenemos un equipo de psicólogos especializados en adicciones y
-          co-occurring mental health issues 24/7 listo para generar un plan de
-          progreso junto a ti.
-        image: images/card4.png
+      - image: images/card4.png
         image_alt: Top view of business meeting
         media_position: left
         media_width: fifty
