@@ -31,6 +31,7 @@ sections:
         media_position: bottom
         media_width: fifty
         title: Wake Up to life and freedom
+        align: center
       - content: |
 
 
