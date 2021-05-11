@@ -71,7 +71,7 @@ sections:
       ## Únete Wake y obtén un plan personalizado
     content_align: center
     form_position: bottom
-    form_width: fourty
+    form_width: fifty
     form_layout: inline
     enable_card: true
     form_action: lorem-ipsum
