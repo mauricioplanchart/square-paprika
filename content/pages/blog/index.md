@@ -2,7 +2,6 @@
 title: Blog
 sections:
   - title: Cursos
-    subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
     align: center
