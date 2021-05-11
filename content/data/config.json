@@ -29,7 +29,6 @@
                 "type": "action"
             },
             {
-                "label": "Comunidad",
                 "url": "/about",
                 "style": "link"
             },
