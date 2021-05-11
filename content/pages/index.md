@@ -81,7 +81,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-        name: Su email address
+        name: 'Su email '
         default_value: Your email address
     align_vert: middle
     padding_top: none
