@@ -20,5 +20,4 @@ seo:
       value: This is the privacy policy page
 layout: page
 ---
-Únete a nuestra comunidad y accederás a diversos cursos, expertos y grupos de apoyo.
-
+Únete a nuestra comunidad y accederás a diversos cursos, expertos y grupos de [apoyo](https://square-paprika-44f87.netlify.app).
