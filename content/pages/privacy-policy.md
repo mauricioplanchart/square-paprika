@@ -22,4 +22,7 @@ layout: page
 ---
 Únete a nuestra comunidad y accederás a diversos cursos, expertos y grupos de [apoyo](https://square-paprika-44f87.netlify.app).
 
-![](/images/Screen%20Shot%202021-05-12%20at%2011.57.22%20AM.png)
+
+
+![](/images/happy-kale.png)
+
