@@ -9,7 +9,7 @@ sections:
     actions:
       - label: Conoce más
         style: secondary
-        has_icon: true
+        has_icon: false
     image: images/Bitmap.png
     image_alt: Hero section placeholder image
     media_position: right
