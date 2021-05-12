@@ -22,4 +22,3 @@ layout: page
 ---
 Únete a nuestra comunidad y accederás a diversos cursos, expertos y grupos de apoyo.
 
-![](/images/classic/feature-1.png)
