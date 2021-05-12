@@ -10,7 +10,7 @@ sections:
         media_position: left
         media_width: fifty
         content: |
-          ###
+          ### ~
         subtitle: >-
           Tenemos un equipo de psicólogos especializados en adicciones y
           co-occurring mental health issues 24/7 listo para generar un plan de
