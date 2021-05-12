@@ -1,10 +1,13 @@
 ---
 title: Blog
 sections:
-  - content: |
-      ## ![](/images/card7.jpg)
+  - content: |+
+      ##
 
-       
+      Bienvenido a los cursos de Wake. Matrículate.
+
+      ![](/images/card7.jpg)
+
     actions: []
     image_alt: lorem-ipsum
     media_position: left
