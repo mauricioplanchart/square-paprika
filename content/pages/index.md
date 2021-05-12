@@ -9,6 +9,7 @@ sections:
     actions:
       - label: Conoce más
         style: secondary
+        has_icon: false
     image: images/Bitmap.png
     image_alt: Hero section placeholder image
     media_position: right
@@ -17,6 +18,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
+    background_image: images/orange background.png
   - type: features_section
     features:
       - subtitle: >-
