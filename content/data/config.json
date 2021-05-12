@@ -219,8 +219,7 @@
                 "icon_position": "center",
                 "new_window": true
             }
-        ],
-        "secondary_nav_title": "Térm"
+        ]
     },
     "domain": "https://square-paprika-44f87.netlify.app"
 }
