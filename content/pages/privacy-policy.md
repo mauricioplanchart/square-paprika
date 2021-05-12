@@ -24,5 +24,5 @@ layout: page
 
 
 
-![](/images/happy-kale.png)
+![](/images/Screen%20Shot%202021-05-12%20at%2012.08.00%20PM.png)
 
