@@ -18,6 +18,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
+    background_image: images/orange background.png
   - type: features_section
     features:
       - subtitle: >-
