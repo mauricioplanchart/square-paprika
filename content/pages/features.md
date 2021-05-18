@@ -21,7 +21,7 @@ sections:
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem
-          ipsum dolor sit amet![](/images/classic/feature-1.png)
+          ipsum dolor sit amet
         actions: []
         image_alt: lorem-ipsum
         media_position: top
