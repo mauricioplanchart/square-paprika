@@ -11,7 +11,7 @@ sections:
       se adapte a ti.
   - type: grid_section
     grid_items:
-      - title: Apoyo clínico + Online Community
+      - title: Wake Community Pass
         title_align: center
         content: "*   Cita con médico especialista\n\n*   Manejo de medicamentos\n\n*   Acceso a Wake University\n\n*   Introducción a Mindfulness\n\n*   Pago mensual: $2,000 mxn\_\n"
         content_align: left
