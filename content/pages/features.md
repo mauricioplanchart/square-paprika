@@ -30,7 +30,7 @@ sections:
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**,
           se![](/images/classic/feature-1.png)
         actions: []
-        media_position: right
+        media_position: left
         media_width: fifty
         align: left
         type: feature
