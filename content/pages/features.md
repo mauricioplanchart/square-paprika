@@ -36,7 +36,7 @@ sections:
         image_alt: lorem-ipsum
         media_position: left
         media_width: thirty-three
-        align: left
+        align: center
         type: feature
     background_color: none
 seo:
