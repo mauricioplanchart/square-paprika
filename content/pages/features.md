@@ -26,18 +26,6 @@ sections:
         align: left
         type: feature
         image: images/classic/feature-1.png
-      - subtitle: lorem-ipsum
-        content: >+
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna
-          aliqua.![](/images/classic/feature-1.png)
-
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: left
-        media_width: thirty-three
-        align: left
-        type: feature
     background_color: none
 seo:
   title: Features
