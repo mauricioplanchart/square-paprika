@@ -27,10 +27,9 @@ sections:
         type: feature
         image: images/classic/feature-1.png
       - title: lorem-ipsum
-        content: |
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, se
-
-          *   dolor sit amet![](/images/classic/feature-1.png)
+        content: >
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**,
+          se![](/images/classic/feature-1.png)
         actions: []
         video_embed_html: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
