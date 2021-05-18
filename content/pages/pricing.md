@@ -44,8 +44,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Wake 180
-      - title: Wake 360
-        title_align: center
+      - title_align: center
         content: "Con el plan **WAKE 360** tendrás acceso a **4 sesiones** mensuales con un profesional de la salud quien junto a ti identificarán un cuadro médico y psicológico así como un roadmap con la metodología Wake que se medirá semana con semana con un accountability coach para ver mejoras en tu relación con el alcohol entre otros temas.\_\_\n\n\nAdicional, tendrás acceso a clases de Wake Academy como:\n\n*   Curso sobre adicciones\n\n*   Acceso total a Wake Academy\_\n\n*   Webinars Semanales\n\n*   Correo electrónico diario de seguimiento y apoyo a tu plan\n\n*   Chat en línea con tu doctor\n\n*   Acceso a medicamento (opcional)\n\n*   Acceso a clases exclusivas para miembros\n\n*   Acceso a eventos presenciales y por livestream\_\n\n*   Descuentos en la tienda en línea\n\n*   Acceso a Wake community\n\nPrecio:\_ $4,999.00\n"
         content_align: left
         actions:
