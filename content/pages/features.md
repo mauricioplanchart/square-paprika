@@ -8,7 +8,7 @@ sections:
       - image: images/Screen Shot 2021-05-11 at 4.15.52 PM.png
         image_alt: Top view of business meeting
         media_position: left
-        media_width: fifty
+        media_width: fourty
         content: >
           Tenemos un equipo de psicólogos especializados en adicciones y
           co-occurring mental health issues 24/7 listo para generar un plan de
