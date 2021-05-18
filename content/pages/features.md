@@ -34,7 +34,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         media_position: right
-        media_width: fifty
+        media_width: fourty
         align: left
         type: feature
         image: images/classic/feature-1.png
