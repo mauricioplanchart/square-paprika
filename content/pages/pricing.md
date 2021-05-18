@@ -31,7 +31,7 @@ sections:
         actions_align: left
         actions_width: full-width
         image_has_padding: true
-      - title: Apoyo clínico + Online Community
+      - title: Wake 180
         title_align: center
         content: "*   Cita con médico especialista\n\n*   Manejo de medicamentos\n\n*   Acceso a Wake University\n\n*   Introducción a Mindfulness\n\nPago mensual: $2,000 mxn\_\n"
         content_align: left
