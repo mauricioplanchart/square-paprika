@@ -27,12 +27,11 @@ sections:
         type: feature
         image: images/classic/feature-1.png
       - subtitle: lorem-ipsum
-        content: >
+        content: >+
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.\\
+          eiusmod tempor incididunt ut labore et dolore magna
+          aliqua.![](/images/classic/feature-1.png)
 
-
-          ![](/images/classic/feature-1.png)
         actions: []
         image_alt: lorem-ipsum
         media_position: right
