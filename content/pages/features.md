@@ -26,9 +26,12 @@ sections:
         align: left
         type: feature
         image: images/classic/feature-1.png
-      - content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**,
-          se![](/images/classic/feature-1.png)
+      - content: |
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, se
+
+
+
+          ![](/images/about-3.jpg)
         actions: []
         media_position: left
         media_width: fifty
