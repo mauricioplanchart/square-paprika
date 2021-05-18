@@ -25,6 +25,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/classic/feature-1.png
     background_color: none
 seo:
   title: Features
