@@ -31,6 +31,10 @@ sections:
         actions_align: left
         actions_width: full-width
         image_has_padding: true
+        subtitle: >-
+          Consultas médicas y opciones de medicación, para aquellos interesados
+          ​​en opciones de medicamentos recetados para cambiar su forma de
+          beber.
       - title: Apoyo clínico + Online Community
         title_align: center
         content: "Consultas médicas y opciones de medicación, para aquellos interesados ​​en opciones de medicamentos recetados para cambiar su forma de beber.\n\n*   Cita con médico especialista\n\n*   Manejo de medicamentos\n\n*   Acceso a Wake University\n\n*   Introducción a mindfulness\n\n    Pago mensual: $2,000 mxn\_\n"
