@@ -26,8 +26,7 @@ sections:
         align: left
         type: feature
         image: images/classic/feature-1.png
-      - title: lorem-ipsum
-        content: >
+      - content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**,
           se![](/images/classic/feature-1.png)
         actions: []
