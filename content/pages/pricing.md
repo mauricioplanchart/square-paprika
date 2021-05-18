@@ -31,6 +31,30 @@ sections:
         actions_align: left
         actions_width: full-width
         image_has_padding: true
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        title_align: left
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
       - title: Wake 180
         title_align: center
         content: "Con el plan **WAKE 180** tendrás acceso a 2 sesiones mensuales con un profesional de la salud quien junto a ti identificarán un cuadro médico y psicológico así como un roadmap con la metodología Wake que se medirá cada 15 días con un accountability coach para ver mejoras en tu relación con el alcohol entre otros temas.\_\_\n\nAdicional, tendrás acceso a clases de *Wake Academy *como:\n\n*   Curso sobre adicciones\n\n*   Webinars Semanales\n\n*   Correo electrónico diario de seguimiento y apoyo a tu plan\n\n*   Chat en línea con tu doctor\n\n*   Acceso a medicamento (opcional)\n\n*   Acceso a clases exclusivas para miembros\n\n*   Acceso a eventos presenciales y por livestream\_\n\n*   Descuentos en la tienda en línea\n\n*   Acceso a *Wake community*\n\nPrecio: $2,999.00\n"
