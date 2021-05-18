@@ -53,6 +53,7 @@ sections:
         actions_align: left
         actions_width: full-width
         image_has_padding: true
+        title: WAKE 360 - 24 hours assistance
     grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small
