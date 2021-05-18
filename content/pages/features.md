@@ -35,7 +35,7 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         media_position: left
-        media_width: fifty
+        media_width: thirty-three
         align: left
         type: feature
     background_color: none
