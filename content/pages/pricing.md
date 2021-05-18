@@ -33,7 +33,7 @@ sections:
         image_has_padding: true
       - title: Wake 180
         title_align: center
-        content: "*   Cita con médico especialista\n\n*   Manejo de medicamentos\n\n*   Acceso a Wake University\n\n*   Introducción a Mindfulness\n\nPago mensual: $2,000 mxn\_\n"
+        content: "Con el plan **WAKE 180** tendrás acceso a 2 sesiones mensuales con un profesional de la salud quien junto a ti identificarán un cuadro médico y psicológico así como un roadmap con la metodología Wake que se medirá cada 15 días con un accountability coach para ver mejoras en tu relación con el alcohol entre otros temas.\_\_\n\nAdicional, tendrás acceso a clases de *Wake Academy *como:\n\n*   Curso sobre adicciones\n\n*   Webinars Semanales\n\n*   Correo electrónico diario de seguimiento y apoyo a tu plan\n\n*   Chat en línea con tu doctor\n\n*   Acceso a medicamento (opcional)\n\n*   Acceso a clases exclusivas para miembros\n\n*   Acceso a eventos presenciales y por livestream\_\n\n*   Descuentos en la tienda en línea\n\n*   Acceso a *Wake community*\n\nPrecio: $2,999.00\n"
         content_align: left
         actions:
           - label: Elegir este plan
