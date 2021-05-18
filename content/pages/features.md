@@ -24,9 +24,7 @@ sections:
         align: left
         type: feature
         image: images/classic/feature-1.png
-      - content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - content: |
 
 
           ![](/images/classic/post-5.png)
