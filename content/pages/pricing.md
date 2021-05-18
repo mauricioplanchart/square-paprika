@@ -21,15 +21,6 @@ sections:
         actions_align: left
         actions_width: full-width
         image_has_padding: true
-        subtitle: >-
-          Este plan gratuito está creado para aquellos que quieren mejorar su
-          calidad de vida a través de la comunidad de Wake en la cual serán
-          inspirados por otras personas que tienen el mismo objetivo.   Tendrás
-          acceso a:  Una comunidad digital 24/7 con contenido editorial creado
-          por nuestros expertos en mindfulness, medicina, psicología, yoga,
-          adicciones y contenido curado por ellos.  Acceso a eventos privados,
-          tienda en línea, webinars, forums, live chats, tips y testimonios.
-          Ademas podrás comprar modulos o clases al ser miembro.
       - title: Apoyo clínico + Online Community
         title_align: center
         content: "*   Cita con médico especialista\n\n*   Manejo de medicamentos\n\n*   Acceso a Wake University\n\n*   Introducción a Mindfulness\n\nPago mensual: $2,000 mxn\_\n"
