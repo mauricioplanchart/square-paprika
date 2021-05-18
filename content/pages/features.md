@@ -26,7 +26,7 @@ sections:
         image: images/classic/feature-1.png
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: >-
+        content: >
           ## Lorem ipsum
 
 
@@ -34,9 +34,12 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          *   Lorem ipsum
 
-          - dolor sit amet
+          *   dolor sit amet
+
+
+          ![](/images/classic/post-5.png)
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
