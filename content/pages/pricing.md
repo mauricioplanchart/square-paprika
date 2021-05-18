@@ -45,6 +45,10 @@ sections:
         actions_align: left
         actions_width: full-width
         image_has_padding: true
+        subtitle: >-
+          Consultas médicas y opciones de medicación, para aquellos interesados
+          ​​en opciones de medicamentos recetados para cambiar su forma de
+          beber.
     grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small
