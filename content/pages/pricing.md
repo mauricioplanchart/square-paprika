@@ -31,8 +31,7 @@ sections:
         actions_align: left
         actions_width: full-width
         image_has_padding: true
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
