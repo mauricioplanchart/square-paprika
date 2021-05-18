@@ -13,7 +13,7 @@ sections:
     grid_items:
       - title: Wake Community Pass
         title_align: center
-        content: "*   Cita con médico especialista\n\n*   Manejo de medicamentos\n\n*   Acceso a Wake University\n\n*   Introducción a Mindfulness\n\n*   Pago mensual: $2,000 mxn\_\n"
+        content: "*   Este plan gratuito está creado para aquellos que quieren mejorar su calidad de vida a través de la comunidad de Wake en la cual serán inspirados por otras personas que tienen el mismo objetivo. Tendrás acceso a: Una comunidad digital 24/7 con contenido editorial creado por nuestros expertos en mindfulness, medicina, psicología, yoga, adicciones y contenido curado por ellos. Acceso a eventos privados, tienda en línea, webinars, forums, live chats, tips y testimonios. Ademas podrás comprar modulos o clases al ser miembro.\_\n"
         content_align: left
         actions:
           - label: Elegir este plan
