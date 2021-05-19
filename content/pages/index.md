@@ -32,7 +32,6 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: bottom
         media_width: fifty
-        title: Wake Up to Life and Freedom
         align: center
       - content: |
           ## No es tu culpa, no estas solo
