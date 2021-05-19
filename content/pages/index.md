@@ -84,7 +84,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-    submit_label: Subscríbete
+    submit_label: Unete
   - actions: []
     image_alt: lorem-ipsum
     media_position: top
