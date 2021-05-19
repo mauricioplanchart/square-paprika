@@ -32,13 +32,6 @@ sections:
         title: >-
           ¿Sabías que en México más de 5,000,000 de personas sufren de abuso de
           alcohol?
-      - content: |
-          ## No es tu culpa, no estas solo
-        actions: []
-        image_alt: Feature 2 placeholder image
-        media_position: top
-        media_width: fifty
-        align: center
     feature_padding_vert: medium
     align: left
     background_color: none
