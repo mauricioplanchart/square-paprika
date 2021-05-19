@@ -59,7 +59,7 @@ sections:
     type: features_section
   - title_align: center
     content: |
-      ## Únete Wake y obtén un plan personalizado
+      ## Únete Wake y recibe un plan personalizado
     content_align: center
     form_position: bottom
     form_width: fifty
