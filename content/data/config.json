@@ -37,11 +37,6 @@
                 "style": "link"
             },
             {
-                "label": "Wake",
-                "style": "link",
-                "url": "/about"
-            },
-            {
                 "label": "¿Cómo funciona?",
                 "url": "/features",
                 "style": "link",
