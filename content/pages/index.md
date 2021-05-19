@@ -18,7 +18,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    background_image: images/Screen Shot 2021-05-12 at 12.08.00 PM.png
   - type: features_section
     features:
       - subtitle: >-
