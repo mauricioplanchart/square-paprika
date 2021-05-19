@@ -33,7 +33,9 @@ sections:
         media_position: bottom
         media_width: fifty
         align: center
-        title: Sabias que en Me
+        title: >-
+          Sabias que en Mexico mas de 5,000,000 de personas sufren de abuso de
+          alcohol?
       - content: |
           ## No es tu culpa, no estas solo
         actions: []
