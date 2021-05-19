@@ -33,6 +33,7 @@ sections:
         media_position: bottom
         media_width: fifty
         align: center
+        title: Sabias que en Me
       - content: |
           ## No es tu culpa, no estas solo
         actions: []
